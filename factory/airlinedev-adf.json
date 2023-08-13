@@ -1,0 +1,9 @@
+{
+	"name": "airlinedev-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f7845ab-d88c-48a9-bb83-27a620236add",
+		"tenantId": "571af952-a94c-4abf-97a2-62b695320a27"
+	}
+}
